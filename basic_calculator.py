@@ -21,7 +21,7 @@ def basic_calculator():
         case _:
             return 'incomputable'
 
-print("Welcome to Luna Calculator\n")
+print("Welcome to the Calculator\n")
 while True:
     print("result:", basic_calculator())
     option = input("If you would like to continiue, enter c\nIf you would like to exit, enter e: ")
