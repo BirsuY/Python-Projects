@@ -10,6 +10,6 @@ def email_slicer():
     
 
 username, domain, extension = email_slicer()
-print("Welcome to Luna Email Slicer Website")
+print("Welcome to the Email Slicer Website")
 print("Username:", username, "\nDomain:", domain, "\nExtension: ", extension)
 #birsuyilmaz
